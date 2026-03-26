@@ -1,2 +1,1 @@
-local change
-local conflict change
+изменения с гитхаба
